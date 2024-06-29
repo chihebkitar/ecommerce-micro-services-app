@@ -1,1 +1,2 @@
-# Spring boot microservice for learning
+# Spring boot microservice for ecommerce
+
